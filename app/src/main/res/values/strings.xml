@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">선택길</string>
+    <string name="movePageButton">Move</string>
+    <string name="gotext">입장</string>
+</resources>
